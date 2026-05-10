@@ -1,2 +1,6 @@
-# web_dev_project
-In this repositoery ,,therre is a lots of web dev project
+
+# DSA-PYTHON_AMB
+HERE IS A LOTS OF CODE FOR DSA PYTHON LEETCODE
+<br>
+AUTHOR -MR_AMBRISH
+
