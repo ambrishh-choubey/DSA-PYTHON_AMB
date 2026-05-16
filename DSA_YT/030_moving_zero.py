@@ -44,6 +44,8 @@ def zero_end(nums):
             j+=1     
     return nums
 print(zero_end([1,2,3,4,5,60,0,6,0,70,0,0,7]))
+
+
              
             
 
